@@ -1,5 +1,3 @@
-# AIFA - Updated 15.04.2025
-
 ```python
 import pandas as pd
 import numpy as np
@@ -554,7 +552,7 @@ for i in indices[:10]:
 
 
     
-![png](GK/temp3_files/temp3_17_1.png)
+![png](temp3_files/temp3_17_1.png)
     
 
 
