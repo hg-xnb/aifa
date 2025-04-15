@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.cpp": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp",
+        "random": "cpp"
+    },
+    "terminal.integrated.fontLigatures": true
+}

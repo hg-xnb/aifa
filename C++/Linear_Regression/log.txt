@@ -1,0 +1,162 @@
+
+epoch [0]:
+a= 0
+b= 0
+loss= 48.5509
+avg error-rate= 84%
+
+epoch [1]:
+a= 0.000820465
+b= 0.0536695
+loss= 45.6708
+avg error-rate= 76.6434%
+
+epoch [2]:
+a= 0.00163832
+b= 0.1073
+loss= 42.7952
+avg error-rate= 70.0867%
+
+epoch [3]:
+a= 0.00245317
+b= 0.160882
+loss= 39.9249
+avg error-rate= 64.1375%
+
+epoch [4]:
+a= 0.00326453
+b= 0.214407
+loss= 37.0613
+avg error-rate= 58.1948%
+
+epoch [5]:
+a= 0.00407178
+b= 0.267859
+loss= 34.2058
+avg error-rate= 52.5857%
+
+epoch [6]:
+a= 0.00487415
+b= 0.321221
+loss= 31.3607
+avg error-rate= 47.1243%
+
+epoch [7]:
+a= 0.00567062
+b= 0.374466
+loss= 28.5289
+avg error-rate= 41.675%
+
+epoch [8]:
+a= 0.00645983
+b= 0.427558
+loss= 25.7146
+avg error-rate= 36.2412%
+
+epoch [9]:
+a= 0.00723991
+b= 0.480446
+loss= 22.924
+avg error-rate= 30.9352%
+
+epoch [10]:
+a= 0.00800826
+b= 0.53305
+loss= 20.1662
+avg error-rate= 25.8468%
+
+epoch [11]:
+a= 0.00876104
+b= 0.585248
+loss= 17.4557
+avg error-rate= 20.9358%
+
+epoch [12]:
+a= 0.0094924
+b= 0.636838
+loss= 14.8163
+avg error-rate= 16.5351%
+
+epoch [13]:
+a= 0.010193
+b= 0.687474
+loss= 12.2882
+avg error-rate= 12.7887%
+
+epoch [14]:
+a= 0.0108472
+b= 0.736522
+loss= 9.94374
+avg error-rate= 9.74714%
+
+epoch [15]:
+a= 0.0114275
+b= 0.782763
+loss= 7.91063
+avg error-rate= 7.72052%
+
+epoch [16]:
+a= 0.0118866
+b= 0.823858
+loss= 6.38566
+avg error-rate= 6.89913%
+
+epoch [17]:
+a= 0.0121577
+b= 0.856018
+loss= 5.52995
+avg error-rate= 6.82816%
+
+epoch [18]:
+a= 0.0122018
+b= 0.876212
+loss= 5.22092
+avg error-rate= 7.21131%
+
+epoch [19]:
+a= 0.0120697
+b= 0.886334
+loss= 5.14649
+avg error-rate= 7.51915%
+
+epoch [20]:
+a= 0.0118448
+b= 0.890875
+loss= 5.13162
+avg error-rate= 7.68033%
+
+epoch [21]:
+a= 0.0115783
+b= 0.892853
+loss= 5.12874
+avg error-rate= 7.75117%
+
+epoch [22]:
+a= 0.0112939
+b= 0.893711
+loss= 5.12813
+avg error-rate= 7.7833%
+
+epoch [23]:
+a= 0.0110018
+b= 0.894085
+loss= 5.12795
+avg error-rate= 7.79709%
+
+epoch [24]:
+a= 0.0107064
+b= 0.894249
+loss= 5.12784
+avg error-rate= 7.80297%
+
+epoch [25]:
+a= 0.0104096
+b= 0.894322
+loss= 5.12775
+avg error-rate= 7.80542%
+
+epoch [26]:
+a= 0.0101121
+b= 0.894357
+loss= 5.12766
+avg error-rate= 7.8064%
